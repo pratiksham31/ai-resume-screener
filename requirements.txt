@@ -1,7 +1,6 @@
 streamlit
-openai
-python-docx
+spacy
+en-core-web-sm==3.8.0
 PyPDF2
-scikit-learn
+python-docx
 pandas
-numpy
